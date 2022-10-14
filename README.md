@@ -1,4 +1,4 @@
-# Django-Blog-Parte1
+# Django Blog Parte1
 Video de YouTube --> https://www.youtube.com/watch?v=0F7HL0dqsWA
 
 ## Tienes algo en mente? Contactame!
